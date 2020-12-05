@@ -1,4 +1,4 @@
-package com.budaev.collections;
+package com.budaev.collections.list;
 
 import java.util.ConcurrentModificationException;
 import java.util.HashSet;

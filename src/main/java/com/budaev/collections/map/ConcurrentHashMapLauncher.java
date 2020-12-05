@@ -1,4 +1,4 @@
-package com.budaev.collections;
+package com.budaev.collections.map;
 
 import java.util.*;
 import java.util.concurrent.*;

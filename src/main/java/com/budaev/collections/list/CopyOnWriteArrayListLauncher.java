@@ -1,4 +1,4 @@
-package com.budaev.collections;
+package com.budaev.collections.list;
 
 import java.util.ArrayList;
 import java.util.ConcurrentModificationException;
